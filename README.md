@@ -1,6 +1,6 @@
 # Instagram Unfollower
 ## Summary
-This tool is used to unfollow all users from your instagram account
+This tool is used to unfollow all users (that are not following you back) from your instagram account
 ## Dependencies
 * Windows OS
 * Chrome Webbrowser installed
